@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.code_component{
+    border: 5px;
+    width: 700px;
+    height: 800px;
+    margin-left:20%;
+    background-color: hsl(220, 15%, 55%);
+    position: absolute;
+}
+.box1{
+    margin-left: 21%;
+    margin-top: 21%;
+    border-radius: 30px;
+    width: 400px;
+    height: 550px;
+    background-color: hsl(0, 0%, 100%);
+}
+img{
+    border-radius: 30px;
+    width: 365px;
+    height: 340px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+h1{
+    margin-left: 20px;
+}
+p{
+     text-align: center;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
